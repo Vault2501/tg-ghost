@@ -1,9 +1,14 @@
 # tg-ghost
 Small script, that let's you run a Telegram account by ChatGPT
 
+# Installation
+python -m venv venv
+. venv.bin/activate
+pip install -r requirements.txt
+python ./tg_ghost.py
+
+
 ## Config
-
-
 Edit these variables in the script:
 
 - Your user ID
