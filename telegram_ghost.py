@@ -17,11 +17,11 @@ wait_min = 60
 # Maximum time to wait before answering
 wait_max = 360 
 # Users the bot will reply to, replace with valid users ids
-config_users = []
+config_users = [00000000]
 # Bots the bot will reply to, replace with valid bot ids
-config_bots = []
+config_bots = [00000000]
 # Chats the bot will reply in. Replace with group ids
-config_chats = []
+config_chats = [00000000]
 
 # gpt integration - replace 0000000000 with your ChatGPT API code
 gpt_integration = GPTIntegration('000000000000')
